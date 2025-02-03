@@ -1,50 +1,59 @@
-# Welcome to NXCS-Workshop 🚀
+<h1>Selamat Datang ke NXCS-Workshop 🚀</h1>
 
-## About Me 👨‍💻
-Hi, I'm **Muhammad Naqib Fitri bin Abd Aziz**! 
-I am passionate about cybersecurity and programming. This repository is dedicated to my **NXCS-Workshop**, where I share valuable resources, coding materials, and slides for learning and collaboration. 
+<h2>Kelas Pengaturcaraan untuk Pemula</h2>
 
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com.in.naqib-fitri)
+## Tentang Saya 👨‍💻
+Hai, saya **Muhammad Naqib Fitri bin Abd Aziz**! 
+Saya amat berminat dalam keselamatan siber dan pengaturcaraan. Repositori ini didedikasikan untuk **NXCS-Workshop**, di mana saya berkongsi sumber berguna, bahan pengaturcaraan, dan slaid untuk pembelajaran dan kerjasama.
 
----
-
-## 📂 Repository Contents
-This repository contains various materials related to cybersecurity programming and forensic analysis.
-
-### 📜 Workshop Materials
-- 📝 **Slides & Documents**: Important PDFs, presentations, and notes for workshop participants.
-- 🔍 **Forensic Case Studies**: Real-world forensic scenarios and solutions.
-
-### 💻 Code Samples
-- 🛠 **Cybersecurity Scripts**: Python, Bash, and PowerShell scripts for forensic analysis and security automation.
-- 🖥 **Windows & Linux Forensics**: Sample scripts for registry analysis, RAM forensics, and evidence collection.
-
-### ⚙️ Tools & Resources
-- 🔗 Useful links to forensic tools, cybersecurity frameworks, and learning platforms.
+🔗 Jom connect!: [LinkedIn](https://www.linkedin.com/in/naqib-fitri)  
+🌐 Portfolio: [Website](http://qibby.my)
 
 ---
 
-## 🚀 How to Use This Repository
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/DarkKancil/NXCS-Workshop.git
-   ```
-2. **Navigate to the folder**:  
-   ```bash
-   cd NXCS-Workshop
-   ```
-3. **Explore the materials** and enhance your forensic skills!
+## 📂 Kandungan Repositori
+Repositori ini mengandungi pelbagai bahan berkaitan pengaturcaraan keselamatan siber dan analisis forensik.
+
+### 📜 Bahan Workshop
+- 📝 **Slaid & Dokumen**: PDF penting, pembentangan, dan nota untuk peserta workshop.
+- 🔍 **Kajian Kes Forensik**: Senario forensik dunia sebenar dan penyelesaiannya.
+
+### 💻 Sampel Kod
+- 🛠 **Skrip Keselamatan Siber**: Skrip Python, Bash, dan PowerShell untuk analisis forensik dan automasi keselamatan.
+- 🖥 **Forensik Windows & Linux**: Contoh skrip untuk analisis registry, forensik RAM, dan pengumpulan bukti.
+
+### ⚙️ Alat & Sumber
+- 🔗 Pautan berguna ke alat forensik, rangka kerja keselamatan siber, dan platform pembelajaran.
 
 ---
 
-## 🤝 Contributions
-If you have any interesting forensic scripts, case studies, or improvements, feel free to **contribute**! Fork this repo, make changes, and submit a pull request.
+## 🚀 Cara Menggunakan Repositori
+```bash
+# Klon repositori atau Muatu Turun sahaja dalam bentuk ZIP File
+ git clone https://github.com/DarkKancil/NXCS-Workshop.git
+
+# Pergi ke folder
+ cd NXCS-Workshop
+```
+Terokai bahan dan tingkatkan kemahiran pengaturcaraan anda!
 
 ---
 
-## 📢 Stay Updated
-Follow this repository for updates on new materials, scripts, and upcoming cybersecurity workshops!
+## 🎨 Penambahbaikan Visual
+Untuk menjadikan repositori ini lebih menarik:
+- ✅ Ditambah lencana dan banner animasi.
+- ✅ Pemformatan dipertingkat dengan emoji dan gaya markdown.
+- ✅ Sentuhan profesional dengan blok kod interaktif.
 
 ---
 
-🛡 **Happy Learning & Stay Secure!** 🔐
+## 🤝 Sumbangan
+
+---
+
+## 📢 Kekal Dikemaskini
+Ikuti repositori ini untuk kemas kini bahan baru, skrip, dan workshop keselamatan siber yang akan datang!
+
+---
+
+💻 **Pengaturcaraan adalah seni, dan keselamatan siber adalah perisai!** 🔐
